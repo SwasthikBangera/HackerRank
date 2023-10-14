@@ -1,6 +1,6 @@
 # HackerRank
 
-Mathematics
+Mathematics problems:
 
 - Fundamentals
   - Find The Point
