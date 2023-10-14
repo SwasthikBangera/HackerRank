@@ -3,4 +3,5 @@
 Mathematics problems:
 
 - Fundamentals
-  - Find The Point
+  - Find The Point (E)
+  - Maximum Draws (E)
